@@ -1,0 +1,10 @@
+.box{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    background-color: rgb(6, 8, 148);
+}
+.box_list{
+    display: flex;
+    flex-wrap: wrap;
+}

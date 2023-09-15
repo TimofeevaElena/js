@@ -1,0 +1,9 @@
+.btn, .btn2, .btn3, .btn4, .btn5, .btn6{
+    border-radius: 15px;
+    padding: 15px;
+    width: 150px;
+    text-align: center;
+    margin: 20px;
+    background-color: 	#E0FFFF;
+    color: rgb(42, 42, 43);
+}

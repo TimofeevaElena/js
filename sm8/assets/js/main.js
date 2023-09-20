@@ -4,6 +4,7 @@ let btn3 = document.querySelector('.btn3')
 let btn4 = document.querySelector('.btn4')
 let btn5 = document.querySelector('.btn5')
 let btn6 = document.querySelector('.btn6')
+let btn7 = document.querySelector('.btn7')
 let body = document.querySelector('body')
 
 
@@ -27,4 +28,7 @@ btn6.addEventListener('dblclick', ()=>{
     btn6.style.background = "#F0F8FF"
     btn6.style.border = "1px solid #87CEEB"
     body.style.background = "#F0F8FF"
+})
+btn7.addEventListener('mousemove', ()=>{
+    btn7.style.background = "#87CEEB"
 })

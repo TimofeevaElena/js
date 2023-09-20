@@ -1,0 +1,14 @@
+.title{
+    background-color: rgb(216, 216, 216);
+    color: rgb(32, 32, 32);
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px;
+}
+.text{
+    height: 0;
+    overflow: hidden;
+}
+.accordeon{
+    margin: 20px;
+}
